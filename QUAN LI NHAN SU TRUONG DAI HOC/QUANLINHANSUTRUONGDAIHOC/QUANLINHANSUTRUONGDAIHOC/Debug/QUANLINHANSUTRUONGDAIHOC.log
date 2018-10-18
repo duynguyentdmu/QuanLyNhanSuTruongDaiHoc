@@ -1,0 +1,10 @@
+﻿  Source.cpp
+  QUANLINHANSU.cpp
+  NHANVIENHC.cpp
+  NHANVIEN.cpp
+  NGAY.cpp
+  HOCPHAN.cpp
+  GIAOVIEN.cpp
+  Generating Code...
+d:\project visual\baitaplon\1524801030073\lap trinh huong doi tuong\quan li nhan su truong dai hoc\quanlinhansutruongdaihoc\quanlinhansutruongdaihoc\quanlinhansu.cpp(52): warning C4715: 'operator>>': not all control paths return a value
+  QUANLINHANSUTRUONGDAIHOC.vcxproj -> D:\PROJECT VISUAL\BAITAPLON\1524801030073\LAP TRINH HUONG DOI TUONG\QUAN LI NHAN SU TRUONG DAI HOC\QUANLINHANSUTRUONGDAIHOC\Debug\QUANLINHANSUTRUONGDAIHOC.exe
